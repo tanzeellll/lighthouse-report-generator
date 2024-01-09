@@ -1,0 +1,15 @@
+{
+  "name": "lighthouse-report-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-lighthouse-report.js",
+  "dependencies": {
+    "lighthouse": "^11.4.0",
+    "puppeteer": "^21.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
